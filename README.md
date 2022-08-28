@@ -9,9 +9,9 @@ This dataset represents graduates and non-graduates and is going to predict who 
 
 In both of the projects we practiced:
 
-Data Exploration & Visualization
-Feature Engineering
-Data Structuring
-Pipelining
-Cross Validation
-Hypermetric Tuning
+1- Data Exploration & Visualization
+2- Feature Engineering
+3- Data Structuring
+4- Pipelining
+5- Cross Validation
+6- Hypermetric Tuning
